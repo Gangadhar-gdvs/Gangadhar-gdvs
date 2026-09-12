@@ -124,7 +124,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,redux,vite&perline=10&theme=dark" />
 <img src="https://img.shields.io/badge/Zustand-111827?style=flat-square&logo=zustand&logoColor=FFFFFF" />
-<br>
+<br><br>
 "Modern Interfaces" · "State Management" · "Data Fetching" · "Responsive Design" · "Animations"
 <br><br>
 <img src="https://img.shields.io/badge/React%20Query%20%2F%20TanStack%20Query-0B1220?style=flat-square&logo=reactquery&logoColor=FF4154" />
@@ -250,7 +250,7 @@
 <br><br>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,npm,pnpm,bun,figma,docker,linux&perline=6&theme=dark" />
-<img src="https://cdn.simpleicons.org/jira/2684FF" width="32" height="32" alt="Jira" />
+<!-- <img src="https://cdn.simpleicons.org/jira/2684FF" width="32" height="32" alt="Jira" /> -->
 </div>
 <br><br>
 "Development Workflow" · "Version Control" · "Design" · "Project Management"
