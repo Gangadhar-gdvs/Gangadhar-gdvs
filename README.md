@@ -248,7 +248,7 @@
 ✦ TOOLS <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:64748B,50:94A3B8,100:E2E8F0" width="30%" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,npm,pnpm,bun,figma,docker,linux&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,npm,pnpm,bun,figma,docker,linux&perline=2&theme=dark" /><br>
 <img src="https://img.shields.io/badge/Jira-111827?style=flat-square&logo=jira&logoColor=2684FF" />
 <br><br>
 "Development Workflow" · "Version Control" · "Design" · "Project Management"
