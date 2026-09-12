@@ -123,7 +123,7 @@
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,redux,vite&perline=10&theme=dark" />
-<img src="https://img.shields.io/badge/Zustand-111827?style=flat-square&logo=zustand&logoColor=FFFFFF" />
+<img src="https://cdn.simpleicons.org/zustand/FFFFFF" width="46" height="46" style="vertical-align:middle;" />
 <br><br>
 "Modern Interfaces" · "State Management" · "Data Fetching" · "Responsive Design" · "Animations"
 <br><br>
@@ -141,7 +141,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366F1,50:8B5CF6,100:A78BFA" width="30%" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun&perline=5&theme=dark" />
-<img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logo=fastify&logoColor=FFFFFF" />
+<img src="https://cdn.simpleicons.org/fastify/FFFFFF" width="46" height="46" style="vertical-align:middle;" />
 <br><br>
 "REST APIs" · "Real-Time Systems" · "API Architecture" · "Authentication" · "Service Engineering"
 <br><br>
