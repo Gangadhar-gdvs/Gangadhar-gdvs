@@ -350,7 +350,6 @@ AETHRA
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <br><br>
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1800&color=FB7185&center=true&vCenter=true&width=600&height=45&lines=05+%2F+EXPERIENCE" />
 <br>
@@ -358,34 +357,24 @@ AETHRA
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&height=30&lines=BUILDING+REAL+SYSTEMS+%E2%80%A2+SOLVING+REAL+PROBLEMS+%E2%80%A2+DELIVERING+REAL+IMPACT" />
 </div>
-
 <br>
 
 <!-- VECTORSOFT -->
 
-<details open>
+<details open align="center">
 <summary><b>01</b>   <b>VECTORSOFT LLC</b>   —   Junior Developer</summary>
-
 <br>
-
 <div align="center">
-
 <img src="https://img.shields.io/badge/JUNIOR%20DEVELOPER-06B6D4?style=for-the-badge&labelColor=0B1220" />
-
 <br><br>
-
 <!-- Unique Experience Stack -->
-
 <img src="https://img.shields.io/badge/NEXT.JS-111827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/ELYSIA-111827?style=flat-square&logoColor=67E8F9" />
 <img src="https://img.shields.io/badge/TAURI-111827?style=flat-square&logo=tauri&logoColor=24C8DB" />
 <img src="https://img.shields.io/badge/FLUTTER-111827?style=flat-square&logo=flutter&logoColor=54C5F8" />
 <img src="https://img.shields.io/badge/ZOOM%20VIDEO%20SDK-111827?style=flat-square&logo=zoom&logoColor=2D8CFF" />
-
 <br><br>
-
 Built responsive web experiences, desktop integrations and mobile applications.
-
 <br>
 <!-- <span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
 "Next.js / Elysia" · "Zoom Video SDK" · "Tauri" · "Flutter"
@@ -393,24 +382,15 @@ Built responsive web experiences, desktop integrations and mobile applications.
 
 
 <img src="https://img.shields.io/badge/99%25-SEO-06B6D4?style=for-the-badge" />
-
 </div>
-
 </details>
-
 <br>
-
 <!-- ZYRONE -->
-
 <details open>
 <summary><b>02</b>   <b>ZYRONE ENERGY</b>   —   Full Stack Developer</summary>
-
 <br>
-
 <div align="center">
-
 <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-A78BFA?style=for-the-badge&labelColor=0B1220" />
-
 <br><br>
 
 <!-- Unique Experience Stack -->
@@ -418,11 +398,8 @@ Built responsive web experiences, desktop integrations and mobile applications.
 <img src="https://img.shields.io/badge/NESTJS-111827?style=flat-square&logo=nestjs&logoColor=E0234E" />
 <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logoColor=67E8F9" />
 <img src="https://img.shields.io/badge/FIREBASE-111827?style=flat-square&logo=firebase&logoColor=FFCA28" />
-
 <br><br>
-
 Engineered real-time operational systems that replaced manual workflows.
-
 <br>
 <!-- <span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
 "6 Real-Time Modules" · "NestJS APIs" · "Firebase Cloud Messaging"
@@ -430,50 +407,34 @@ Engineered real-time operational systems that replaced manual workflows.
 <br><br> -->
 
 <img src="https://img.shields.io/badge/6-REAL--TIME%20MODULES-A78BFA?style=for-the-badge" />
-
 </div>
-
 </details>
-
 <br>
 
 <!-- TECH KSHATRIYAS -->
 
 <details open>
 <summary><b>03</b>   <b>TECH KSHATRIYAS</b>   —   Frontend Developer</summary>
-
 <br>
-
 <div align="center">
-
 <img src="https://img.shields.io/badge/FRONTEND%20DEVELOPER-F472B6?style=for-the-badge&labelColor=0B1220" />
-
 <br><br>
-
 <!-- Unique Experience Stack -->
 <!-- Next.js removed here because it is already shown above -->
 
 <img src="https://img.shields.io/badge/REACT-111827?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/NODE.JS-111827?style=flat-square&logo=nodedotjs&logoColor=68A063" />
-
 <br><br>
-
 Built high-performance web experiences and custom workflow applications.
-
 <br>
 <!-- <span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
 "React" · "Node.js"
 </span>
 <br><br> -->
-
 <img src="https://img.shields.io/badge/99%2F100-PAGESPEED-F472B6?style=for-the-badge" />
-
 </div>
-
 </details>
-
 <br>
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=720&height=30&lines=PROBLEM+%E2%86%92+ARCHITECTURE+%E2%86%92+IMPLEMENTATION+%E2%86%92+IMPACT" />
 </div>
