@@ -264,13 +264,13 @@ Built responsive web experiences, desktop integrations and mobile applications.
 <details open>
 <summary><b>02</b>   <b>ZYRONE ENERGY</b>   —   Full Stack Developer</summary>
 
-<br><br>
+<br>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-A78BFA?style=for-the-badge&labelColor=0B1220" />
 
-<br>
+<br><br>
 
 <!-- Unique Experience Stack -->
 
@@ -282,7 +282,7 @@ Built responsive web experiences, desktop integrations and mobile applications.
 
 Engineered real-time operational systems that replaced manual workflows.
 
-<br><br>
+<br>
 <!-- <span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
 "6 Real-Time Modules" · "NestJS APIs" · "Firebase Cloud Messaging"
 </span>
@@ -301,13 +301,13 @@ Engineered real-time operational systems that replaced manual workflows.
 <details open>
 <summary><b>03</b>   <b>TECH KSHATRIYAS</b>   —   Frontend Developer</summary>
 
-<br><br>
+<br>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/FRONTEND%20DEVELOPER-F472B6?style=for-the-badge&labelColor=0B1220" />
 
-<br>
+<br><br>
 
 <!-- Unique Experience Stack -->
 <!-- Next.js removed here because it is already shown above -->
@@ -319,13 +319,13 @@ Engineered real-time operational systems that replaced manual workflows.
 
 Built high-performance web experiences and custom workflow applications.
 
-<br><br>
+<br>
 <!-- <span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
 "React" · "Node.js"
 </span>
 <br><br> -->
 
-<img src="https://img.shields.io/badge/92%2F100-PAGESPEED-F472B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/99%2F100-PAGESPEED-F472B6?style=for-the-badge" />
 
 </div>
 
