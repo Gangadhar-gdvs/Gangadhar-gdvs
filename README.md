@@ -123,8 +123,8 @@
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,redux,vite&perline=10&theme=dark" />
-<span style="display:inline-flex;align-items:center;justify-content:center;width:58px;height:58px;border-radius:12px;background:#111827;overflow:hidden;">
-  <img src="https://github.com/pmndrs.png" width="32" height="32" alt="Zustand" style="border-radius:8px;" />
+<span style="display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;border-radius:12px;background:#111827;overflow:hidden;">
+  <img src="https://github.com/pmndrs.png" width="48" height="48" alt="Zustand" style="border-radius:10px !important;" />
 </span>
 <br><br>
 "Modern Interfaces" · "State Management" · "Data Fetching" · "Responsive Design" · "Animations"
