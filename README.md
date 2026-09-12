@@ -231,7 +231,7 @@
 
 <img src="https://img.shields.io/badge/JUNIOR%20DEVELOPER-06B6D4?style=for-the-badge&labelColor=0B1220" />
 
-<br><br>
+<br>
 
 <!-- Unique Experience Stack -->
 
@@ -241,11 +241,11 @@
 <img src="https://img.shields.io/badge/FLUTTER-111827?style=flat-square&logo=flutter&logoColor=54C5F8" />
 <img src="https://img.shields.io/badge/ZOOM%20VIDEO%20SDK-111827?style=flat-square&logo=zoom&logoColor=2D8CFF" />
 
-<br><br>
+<br>
 
 Built responsive web experiences, desktop integrations and mobile applications.
 
-<br><br>
+<br>
 <!-- <span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
 "Next.js / Elysia" · "Zoom Video SDK" · "Tauri" · "Flutter"
 </span> -->
