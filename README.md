@@ -286,11 +286,10 @@ Built high-performance web experiences and custom workflow applications.
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=2000&color=67E8F9&center=true&vCenter=true&width=650&height=45&lines=06+%2F+GITHUB+ACTIVITY" /><br><br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gangadhar-gdvs&show_icons=true&hide_border=true&bg_color=05070B&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9&ring_color=F472B6&include_all_commits=true" height="175" /><img src="https://streak-stats.demolab.com?user=Gangadhar-gdvs&hide_border=true&background=05070B&ring=67E8F9&fire=F472B6&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B" height="175" /><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gangadhar-gdvs&show_icons=true&hide_border=true&bg_color=05070B&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9&ring_color=F472B6&include_all_commits=true" height="175" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gangadhar-gdvs&hide_border=true&background=05070B&ring=67E8F9&fire=F472B6&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B" height="175" /><br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gangadhar-gdvs&bg_color=05070B&color=67E8F9&line=A78BFA&point=F472B6&area=true&hide_border=true" width="96%" /></div><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gangadhar-gdvs&bg_color=05070B&color=67E8F9&line=A78BFA&point=F472B6&area=true&hide_border=true" width="96%" /></div>
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
