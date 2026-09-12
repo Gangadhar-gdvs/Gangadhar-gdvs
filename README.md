@@ -99,55 +99,275 @@
 <br><br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-
 <!--                       TECH STACK                           -->
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1800&color=22D3EE&center=true&vCenter=true&width=600&height=45&lines=03+%2F+TECH+STACK" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1800&color=22D3EE&center=true&vCenter=true&width=600&height=45&lines=03+%2F+TECH+STACK" />
+
 <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:67E8F9,35:22D3EE,70:3B82F6,100:A78BFA" width="55%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:67E8F9,35:22D3EE,70:3B82F6,100:A78BFA" width="55%" />
+
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&width=650&height=30&lines=TOOLS+I+USE+TO+TURN+IDEAS+INTO+PRODUCTION+SYSTEMS" /></div><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&width=650&height=30&lines=TOOLS+I+USE+TO+TURN+IDEAS+INTO+PRODUCTION+SYSTEMS" />
 
-<div align="center">⚡ FRONTEND
+</div>
 
-<br><br> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind&perline=5&theme=dark" /><br><br>
+<br>
 
-<img src="https://img.shields.io/badge/UI%20%2F%20UX-REACT%20%7C%20NEXT.JS%20%7C%20TAILWIND-0B1220?style=for-the-badge&logoColor=67E8F9" /><br><br><br>
+<!-- ========================= FRONTEND ========================= -->
+
+<div align="center">
+
+⚡ FRONTEND
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,50:3B82F6,100:6366F1" width="30%" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,redux,vite&perline=10&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=zustand&perline=1&theme=dark" />
+
+<br><br>
+
+"Modern Interfaces" · "State Management" · "Data Fetching" · "Responsive Design" · "Animations"
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React%20Query%20%2F%20TanStack%20Query-0B1220?style=flat-square&logo=reactquery&logoColor=FF4154" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0B1220?style=flat-square&logo=framer&logoColor=0055FF" />
+<img src="https://img.shields.io/badge/Bootstrap-0B1220?style=flat-square&logo=bootstrap&logoColor=7952B3" />
+<img src="https://img.shields.io/badge/Material%20UI-0B1220?style=flat-square&logo=mui&logoColor=007FFF" />
+<img src="https://img.shields.io/badge/Shadcn%2FUI-0B1220?style=flat-square&logoColor=FFFFFF" />
+
+<br><br><br>
+
+
+<!-- =========================== BACKEND ======================== -->
 
 ◈ BACKEND
 
-<br><br> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=3&theme=dark" /><br><br>
+<br>
 
-<img src="https://img.shields.io/badge/API%20ENGINEERING-REST%20%7C%20REAL--TIME%20%7C%20SERVICES-0B1220?style=for-the-badge&logoColor=A78BFA" /><br><br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366F1,50:8B5CF6,100:A78BFA" width="30%" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun,fastify&perline=5&theme=dark" />
+
+<br><br>
+
+"REST APIs" · "Real-Time Systems" · "API Architecture" · "Authentication" · "Service Engineering"
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Elysia-0B1220?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/REST%20API-0B1220?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/GraphQL-0B1220?style=flat-square&logo=graphql&logoColor=E10098" />
+<img src="https://img.shields.io/badge/WebSockets-0B1220?style=flat-square&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Socket.IO-0B1220?style=flat-square&logo=socketdotio&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/JWT-0B1220?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/OAuth-0B1220?style=flat-square&logo=oauth&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-0B1220?style=flat-square&logo=swagger&logoColor=85EA2D" />
+
+<br><br><br>
+
+
+<!-- ======================== DATA & CLOUD ====================== -->
 
 ◇ DATA & CLOUD
 
-<br><br> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=3&theme=dark" /><br><br>
+<br>
 
-<img src="https://img.shields.io/badge/DATA-MONGODB%20%7C%20MYSQL%20%7C%20FIREBASE-0B1220?style=for-the-badge&logoColor=F472B6" /><br><br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:14B8A6,50:06B6D4,100:22D3EE" width="30%" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite,redis&perline=5&theme=dark" />
+
+<br><br>
+
+"Data Persistence" · "Caching" · "Cloud Data" · "Real-Time Services"
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Mongoose-0B1220?style=flat-square&logo=mongodb&logoColor=47A248" />
+
+<br><br><br>
+
+
+<!-- ======================= CLOUD & DEVOPS ====================== -->
+
+☁️ CLOUD & DEVOPS
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0EA5E9,50:2563EB,100:4F46E5" width="30%" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,cloudflare,linux,ubuntu&perline=7&theme=dark" />
+
+<br><br>
+
+"Cloud Infrastructure" · "Deployment" · "CI/CD" · "Containerization" · "Production Hosting"
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AWS%20EC2-0B1220?style=flat-square&logo=amazonec2&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS%20S3-0B1220?style=flat-square&logo=amazons3&logoColor=569A31" />
+<img src="https://img.shields.io/badge/AWS%20Amplify-0B1220?style=flat-square&logo=awsamplify&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-0B1220?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/CI%2FCD-0B1220?style=flat-square&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Render-0B1220?style=flat-square&logo=render&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Netlify-0B1220?style=flat-square&logo=netlify&logoColor=00C7B7" />
+
+<br><br><br>
+
+
+<!-- =================== MOBILE & DESKTOP ======================= -->
 
 ⬡ MOBILE & DESKTOP
 
-<br><br> <img src="https://skillicons.dev/icons?i=flutter,tauri&perline=2&theme=dark" /><br><br>
+<br>
 
-<img src="https://img.shields.io/badge/CROSS--PLATFORM-FLUTTER%20%7C%20TAURI-0B1220?style=for-the-badge&logoColor=22D3EE" /><br><br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0EA5E9,50:2563EB,100:4F46E5" width="30%" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,tauri,rust,electron&perline=7&theme=dark" />
+
+<br><br>
+
+"Cross-Platform Applications" · "Mobile Development" · "Desktop Development" · "Production Apps"
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Firebase-0B1220?style=flat-square&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/FlutterFlow-0B1220?style=flat-square&logo=flutter&logoColor=54C5F8" />
+<img src="https://img.shields.io/badge/Push%20Notifications-0B1220?style=flat-square&logoColor=54C5F8" />
+<img src="https://img.shields.io/badge/Firebase%20Cloud%20Messaging-0B1220?style=flat-square&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/SQLite-0B1220?style=flat-square&logo=sqlite&logoColor=003B57" />
+<img src="https://img.shields.io/badge/Desktop%20Applications-0B1220?style=flat-square&logoColor=24C8DB" />
+
+<br><br><br>
+
+
+<!-- ========================= AI & GENAI ======================= -->
+
+✦ AI & GENAI
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:84CC16,50:A3E635,100:FACC15" width="30%" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=3&theme=dark" />
+
+<br><br>
+
+"Intelligent Products" · "LLM Systems" · "Generative AI" · "AI Agents"
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-0B1220?style=flat-square&logo=google&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/OpenAI-0B1220?style=flat-square&logo=openai&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Ollama-0B1220?style=flat-square&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LLMs-0B1220?style=flat-square&logoColor=A3E635" />
+<img src="https://img.shields.io/badge/Generative%20AI-0B1220?style=flat-square&logoColor=A3E635" />
+<img src="https://img.shields.io/badge/AI%20Agents-0B1220?style=flat-square&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/RAG-0B1220?style=flat-square&logoColor=84CC16" />
+<img src="https://img.shields.io/badge/Embeddings-0B1220?style=flat-square&logoColor=A3E635" />
+<img src="https://img.shields.io/badge/Vector%20Databases-0B1220?style=flat-square&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0B1220?style=flat-square&logoColor=84CC16" />
+<img src="https://img.shields.io/badge/MCP-0B1220?style=flat-square&logoColor=A3E635" />
+
+<br><br><br>
+
+
+<!-- ======================= 3D & CREATIVE ====================== -->
+
+◆ 3D & CREATIVE
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:F59E0B,50:F97316,100:EF4444" width="30%" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=threejs,webgl&perline=2&theme=dark" />
+
+<br><br>
+
+"3D Interfaces" · "Interactive Graphics" · "Web Rendering"
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React%20Three%20Fiber-0B1220?style=flat-square&logo=react&logoColor=61DAFB" />
+
+<br><br><br>
+
+
+<!-- =========================== TOOLS =========================== -->
 
 ✦ TOOLS
 
-<br><br> <img src="https://skillicons.dev/icons?i=git,github,vercel,postman&perline=4&theme=dark" /><br><br>
-
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-GEMINI%20%7C%20GENAI-0B1220?style=for-the-badge&logo=google&logoColor=67E8F9" /></div><br>
-
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:F472B6,50:A78BFA,100:22D3EE" width="70%" />
-</div> -->
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:64748B,50:94A3B8,100:E2E8F0" width="30%" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,npm,pnpm,bun,figma,jira,docker,linux&perline=6&theme=dark" />
+
+<br><br>
+
+"Development Workflow" · "Version Control" · "Design" · "Project Management"
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cursor-0B1220?style=flat-square&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0B1220?style=flat-square&logo=githubactions&logoColor=FFFFFF" />
+
+<br><br><br>
+
+
+<!-- ================= ARCHITECTURE & ENGINEERING ============== -->
+
+◉ ARCHITECTURE & ENGINEERING
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:F472B6,50:A78BFA,100:22D3EE" width="30%" />
+
+<br><br>
+
+"System Design" · "System Architecture" · "API Design"
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-0B1220?style=flat-square&logoColor=F472B6" />
+<img src="https://img.shields.io/badge/REAL--TIME%20SYSTEMS-0B1220?style=flat-square&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/PERFORMANCE%20OPTIMIZATION-0B1220?style=flat-square&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/MULTI--TENANT%20ARCHITECTURE-0B1220?style=flat-square&logoColor=A3E635" />
+<img src="https://img.shields.io/badge/AUTHENTICATION-0B1220?style=flat-square&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/AUTHORIZATION-0B1220?style=flat-square&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/CACHING-0B1220?style=flat-square&logoColor=22D3EE" />
+
+<br><br><br>
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
