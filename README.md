@@ -56,7 +56,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&height=30&lines=FROM+INTERFACE+TO+INFRASTRUCTURE+%E2%80%A2+FROM+IDEA+TO+PRODUCT" /></div><br>
 
 <div align="center">◈ WEB <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=22D3EE" width="180" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22D3EE" width="180" /><br>
 <br> 
   <img src="https://img.shields.io/badge/REACT-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
   <img src="https://img.shields.io/badge/NEXT.JS-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
@@ -68,7 +68,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=22D3EE" width="30%" /><br><br> -->
 
 ◇ BACKEND <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=A78BFA" width="180" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=A78BFA" width="180" /><br>
 
 <br>
    <img src="https://img.shields.io/badge/NODE.JS-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=68A063" /> 
@@ -79,7 +79,7 @@
 <br><br>
 
 ⬡ MOBILE & DESKTOP <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F472B6" width="180" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=F472B6" width="180" /><br>
 <br>
    <img src="https://img.shields.io/badge/FLUTTER-0B1220?style=for-the-badge&logo=flutter&logoColor=54C5F8" /> 
    <img src="https://img.shields.io/badge/TAURI-0B1220?style=for-the-badge&logo=tauri&logoColor=24C8DB" />
@@ -89,7 +89,7 @@
 <br><br>
 
 ✦ AI <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=A3E635" width="180" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=A3E635" width="180" /><br>
 <br> 
     <img src="https://img.shields.io/badge/GEMINI-0B1220?style=for-the-badge&logo=google&logoColor=67E8F9" />
 <br>
