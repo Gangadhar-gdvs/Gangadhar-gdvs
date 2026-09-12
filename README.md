@@ -67,30 +67,36 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=22D3EE" width="30%" /><br><br> -->
 
-◇ BACKEND
+◇ BACKEND <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=A78BFA" width="30%" /><br>
 
-<br><br> <img src="https://img.shields.io/badge/NODE.JS-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=68A063" /> <img src="https://img.shields.io/badge/NESTJS-0B1220?style=for-the-badge&logo=nestjs&logoColor=E0234E" /><br>
+<br>
+   <img src="https://img.shields.io/badge/NODE.JS-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=68A063" /> 
+   <img src="https://img.shields.io/badge/NESTJS-0B1220?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<br>
 "REST APIs" · "Real-Time Systems" · "System Architecture"
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=A78BFA" width="30%" /><br><br>
-
-⬡ MOBILE & DESKTOP
-
-<br><br> <img src="https://img.shields.io/badge/FLUTTER-0B1220?style=for-the-badge&logo=flutter&logoColor=54C5F8" /> <img src="https://img.shields.io/badge/TAURI-0B1220?style=for-the-badge&logo=tauri&logoColor=24C8DB" /><br>
+⬡ MOBILE & DESKTOP <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=F472B6" width="30%" /><br>
+<br>
+   <img src="https://img.shields.io/badge/FLUTTER-0B1220?style=for-the-badge&logo=flutter&logoColor=54C5F8" /> 
+   <img src="https://img.shields.io/badge/TAURI-0B1220?style=for-the-badge&logo=tauri&logoColor=24C8DB" />
+<br>
 "Cross-Platform" · "Firebase" · "Production Applications"
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=F472B6" width="30%" /><br><br>
-
-✦ AI
-
-<br><br> <img src="https://img.shields.io/badge/GEMINI-0B1220?style=for-the-badge&logo=google&logoColor=67E8F9" /><br>
+✦ AI <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=A3E635" width="30%" /><br>
+<br> 
+    <img src="https://img.shields.io/badge/GEMINI-0B1220?style=for-the-badge&logo=google&logoColor=67E8F9" />
+<br>
 "Generative AI" · "AI Interfaces" · "Intelligent Products"
 
-</div><br><br>
+</div>
+<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
