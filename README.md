@@ -56,7 +56,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&height=30&lines=FROM+INTERFACE+TO+INFRASTRUCTURE+%E2%80%A2+FROM+IDEA+TO+PRODUCT" /></div><br>
 
 <div align="center">◈ WEB <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22D3EE" width="40%" /><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22D3EE" width="180" /><br>
 <br> 
   <img src="https://img.shields.io/badge/REACT-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
   <img src="https://img.shields.io/badge/NEXT.JS-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
