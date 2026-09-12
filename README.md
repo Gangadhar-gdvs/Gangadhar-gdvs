@@ -39,7 +39,7 @@
 
 <img src="https://img.shields.io/badge/🎓%20EDUCATION-B.TECH%20CSE%20%7C%202025-0B1220?style=for-the-badge&labelColor=0B1220&color=312E81" /><br><br>
 
-<img src="https://img.shields.io/badge/🧠%20EXPLORING-DSA%20%7C%20AI%2FML%20%7C%20GENAI-0B1220?style=for-the-badge&labelColor=0B1220&color=4C1D95" /></div><br><br>
+<img src="https://img.shields.io/badge/🧠%20EXPLORING-DSA%20%7C%20AI%2FML%20%7C%20GENAI-0B1220?style=for-the-badge&labelColor=0B1220&color=4C1D95" /></div><br>
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2800&pause=1000&color=64748B&center=true&vCenter=true&width=700&height=28&lines=%E2%80%94%E2%80%94%E2%80%94+CURIOUS+BY+DEFAULT+%E2%80%A2+PRECISE+BY+DESIGN+%E2%80%A2+ALWAYS+BUILDING+%E2%80%94%E2%80%94%E2%80%94" /></div><br><br>
 
