@@ -106,7 +106,11 @@
 
 <br><br>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1800&color=22D3EE&center=true&vCenter=true&width=600&height=45&lines=03+%2F+TECH+STACK" /><br><img src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&color=0:67E8F9,35:22D3EE,70:3B82F6,100:A78BFA" width="55%" /><br><br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1800&color=22D3EE&center=true&vCenter=true&width=600&height=45&lines=03+%2F+TECH+STACK" />
+<br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:67E8F9,35:22D3EE,70:3B82F6,100:A78BFA" width="55%" />
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&width=650&height=30&lines=TOOLS+I+USE+TO+TURN+IDEAS+INTO+PRODUCTION+SYSTEMS" /></div><br>
 
