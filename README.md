@@ -516,10 +516,12 @@ Built high-performance web experiences and custom workflow applications.
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&width=550&height=45&lines=07+%2F+CURRENTLY+EXPLORING" /><br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&height=40&lines=DATA+STRUCTURES+%26+ALGORITHMS;AI%2FML+%26+GENERATIVE+AI;SCALABLE+SYSTEM+ARCHITECTURE;BUILDING+BETTER+DIGITAL+PRODUCTS" /></div><br><br>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&width=550&height=45&lines=07+%2F+CURRENTLY+EXPLORING" />
+  <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&height=40&lines=DATA+STRUCTURES+%26+ALGORITHMS;AI%2FML+%26+GENERATIVE+AI;SCALABLE+SYSTEM+ARCHITECTURE;BUILDING+BETTER+DIGITAL+PRODUCTS" />
+</div>
+<br>
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:22D3EE,50:A78BFA,100:F472B6" width="70%" /><br><br>
 
 LET'S BUILD SOMETHING GREAT.
