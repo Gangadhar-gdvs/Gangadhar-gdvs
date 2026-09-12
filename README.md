@@ -310,7 +310,7 @@ AETHRA
 <img src="https://img.shields.io/badge/3D%20ANIMATION-4C1D95?style=for-the-badge&logoColor=F472B6" />
   <br><br>
 «Real-time avatar interaction with procedural gesture detection and AI integration.»
-<br>
+<br><br>
   <a href="https://github.com/Gangadhar-gdvs/Aethra">
     <img src="https://img.shields.io/badge/VIEW%20AETHRA-67E8F9?style=for-the-badge&logo=github&logoColor=0B1220" />
 </a></div>
@@ -321,41 +321,28 @@ AETHRA
 <!-- ───────────────────── G-MART ───────────────────── -->
 
 <div align="center"><img src="https://img.shields.io/badge/02-0B1220?style=for-the-badge&labelColor=0B1220&color=A78BFA" /><br><br>
-
 🛒 G-MART
-
 <br><br> <img src="https://img.shields.io/badge/SCALABLE%20E--COMMERCE%20PLATFORM-0B1220?style=for-the-badge&logo=shopify&logoColor=A78BFA" /><br><br>
-
 <img src="https://img.shields.io/badge/REACT-172554?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/NODE.JS-172554?style=for-the-badge&logo=nodedotjs&logoColor=68A063" />
 <img src="https://img.shields.io/badge/EXPRESS-312E81?style=for-the-badge&logo=express&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/MONGODB-4C1D95?style=for-the-badge&logo=mongodb&logoColor=47A248" /><br><br>
-
 «Multi-module commerce architecture with RBAC and JWT authentication.»
-
-<br><a href="https://github.com/Gangadhar-gdvs/G-Mart"><img src="https://img.shields.io/badge/VIEW%20G--MART-A78BFA?style=for-the-badge&logo=github&logoColor=0B1220" /></a></div>
-
+<br><br><a href="https://github.com/Gangadhar-gdvs/G-Mart"> <img src="https://img.shields.io/badge/VIEW%20G--MART-A78BFA?style=for-the-badge&logo=github&logoColor=0B1220" /></a></div>
 <br><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:F472B6,50:A78BFA,100:22D3EE" width="60%" /></div><br>
 
 <!-- ───────────────────── SUPERCABS ───────────────────── -->
 
 <div align="center"><img src="https://img.shields.io/badge/03-0B1220?style=for-the-badge&labelColor=0B1220&color=F472B6" /><br><br>
-
 🚕 SUPERCABS
-
 <br><br> <img src="https://img.shields.io/badge/CROSS--PLATFORM%20RENTAL%20APPLICATION-0B1220?style=for-the-badge&logo=flutter&logoColor=54C5F8" /><br><br>
-
 <img src="https://img.shields.io/badge/FLUTTER-172554?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
 <img src="https://img.shields.io/badge/FIREBASE-312E81?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 <img src="https://img.shields.io/badge/OTP-4C1D95?style=for-the-badge&logoColor=F472B6" />
 <img src="https://img.shields.io/badge/PUSH%20NOTIFICATIONS-500724?style=for-the-badge&logo=firebase&logoColor=F472B6" /><br><br>
-
 «OTP onboarding, document workflows and real-time push notifications.»
-
-<br><a href="https://github.com/Gangadhar-gdvs/SuperCabs"><img src="https://img.shields.io/badge/VIEW%20SUPERCABS-F472B6?style=for-the-badge&logo=github&logoColor=0B1220" /></a></div><br><br>
-
+<br><br><a href="https://github.com/Gangadhar-gdvs/SuperCabs"><img src="https://img.shields.io/badge/VIEW%20SUPERCABS-F472B6?style=for-the-badge&logo=github&logoColor=0B1220" /></a></div><br><br>
 <div align="center"><img src="https://img.shields.io/badge/39%2B%20REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" /><br><br>
-
 <a href="https://github.com/Gangadhar-gdvs?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-67E8F9?style=for-the-badge&logo=github&logoColor=0B1220" /></a></div><br><br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
