@@ -123,8 +123,8 @@
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,redux,vite&perline=10&theme=dark" />
-<span style="display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;border-radius:12px;background:#111827;">
-  <img src="https://github.com/pmndrs.png" width="32" height="32" alt="Zustand" />
+<span style="display:inline-flex;align-items:center;justify-content:center;width:58px;height:58px;border-radius:12px;background:#111827;overflow:hidden;">
+  <img src="https://github.com/pmndrs.png" width="32" height="32" alt="Zustand" style="border-radius:8px;" />
 </span>
 <br><br>
 "Modern Interfaces" · "State Management" · "Data Fetching" · "Responsive Design" · "Animations"
@@ -144,7 +144,7 @@
 <br><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun&perline=5&theme=dark" />
 <span style="display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;border-radius:12px;background:#111827;">
-  <img src="https://cdn.simpleicons.org/fastify/FFFFFF" width="32" height="32" alt="Fastify" />
+  <img src="https://cdn.simpleicons.org/fastify/FFFFFF" width="48" height="48" alt="Fastify" />
 </span>
 <br><br>
 "REST APIs" · "Real-Time Systems" · "API Architecture" · "Authentication" · "Service Engineering"
@@ -240,7 +240,7 @@
 <br><br>
 <img src="https://skillicons.dev/icons?i=threejs&perline=2&theme=dark" />
 <span style="display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;border-radius:12px;background:#111827;">
-  <img src="https://cdn.simpleicons.org/webgl/EF4444" width="32" height="32" alt="WebGL" />
+  <img src="https://cdn.simpleicons.org/webgl/EF4444" width="48" height="48" alt="WebGL" />
 </span>
 <br><br>
 "3D Interfaces" · "Interactive Graphics" · "Web Rendering"
