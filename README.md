@@ -44,57 +44,93 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2800&pause=1000&color=64748B&center=true&vCenter=true&width=700&height=28&lines=%E2%80%94%E2%80%94%E2%80%94+CURIOUS+BY+DEFAULT+%E2%80%A2+PRECISE+BY+DESIGN+%E2%80%A2+ALWAYS+BUILDING+%E2%80%94%E2%80%94%E2%80%94" /></div><br><br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-
 <!--                       WHAT I BUILD                         -->
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <br><br>
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1800&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=02+%2F+WHAT+I+BUILD" /><br><img src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&color=0:F472B6,35:A78BFA,70:6366F1,100:22D3EE" width="55%" /><br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&height=30&lines=FROM+INTERFACE+TO+INFRASTRUCTURE+%E2%80%A2+FROM+IDEA+TO+PRODUCT" /></div><br>
-
-<div align="center">◈ WEB <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22D3EE" width="180" /><br>
-<br> 
-  <img src="https://img.shields.io/badge/REACT-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-  <img src="https://img.shields.io/badge/NEXT.JS-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1800&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=02+%2F+WHAT+I+BUILD" />
 <br>
-"Modern Interfaces" · "Scalable Frontends" · "Performance"
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:F472B6,35:A78BFA,70:6366F1,100:22D3EE" width="55%" />
 <br><br>
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=22D3EE" width="30%" /><br><br> -->
-
-◇ BACKEND <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=A78BFA" width="180" /><br>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&height=30&lines=FROM+IDEA+TO+EXPERIENCE+%E2%80%A2+FROM+SYSTEM+TO+PRODUCT+%E2%80%A2+FROM+PRODUCT+TO+IMPACT" />
+</div>
 <br>
-   <img src="https://img.shields.io/badge/NODE.JS-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=68A063" /> 
-   <img src="https://img.shields.io/badge/NESTJS-0B1220?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<div align="center">
+<!-- ============================== WEB ============================== -->
+◈ WEB
 <br>
-"REST APIs" · "Real-Time Systems" · "System Architecture"
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22D3EE,50:3B82F6,100:6366F1" width="180" />
 <br><br>
-
-⬡ MOBILE & DESKTOP <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=F472B6" width="180" /><br>
-<br>
-   <img src="https://img.shields.io/badge/FLUTTER-0B1220?style=for-the-badge&logo=flutter&logoColor=54C5F8" /> 
-   <img src="https://img.shields.io/badge/TAURI-0B1220?style=for-the-badge&logo=tauri&logoColor=24C8DB" />
-<br>
-"Cross-Platform" · "Firebase" · "Production Applications"
-
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=620&height=32&lines=MODERN+INTERFACES;SCALABLE+WEB+PRODUCTS;INTERACTIVE+DIGITAL+EXPERIENCES" />
 <br><br>
+"Clean Interfaces" · "Scalable Products" · "Responsive Experiences" · "Performance-Focused Engineering"
+<br><br><br>
 
-✦ AI <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=A3E635" width="180" /><br>
-<br> 
-    <img src="https://img.shields.io/badge/GEMINI-0B1220?style=for-the-badge&logo=google&logoColor=67E8F9" />
+
+<!-- ============================ BACKEND ============================ -->
+◇ BACKEND
 <br>
-"Generative AI" · "AI Interfaces" · "Intelligent Products"
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6366F1,50:8B5CF6,100:A78BFA" width="180" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&height=32&lines=API--DRIVEN+SYSTEMS;REAL--TIME+PLATFORMS;SCALABLE+BACKEND+ARCHITECTURE" />
+<br><br>
+"Reliable Services" · "Real-Time Systems" · "Scalable Architecture" · "Data-Driven Workflows"
+<br><br><br>
 
+
+<!-- ======================= MOBILE & DESKTOP ======================== -->
+⬡ MOBILE & DESKTOP
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0EA5E9,50:2563EB,100:4F46E5" width="180" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=32&lines=CROSS--PLATFORM+APPLICATIONS;CONNECTED+DIGITAL+EXPERIENCES;PRODUCTION--READY+APPLICATIONS" />
+<br><br>
+"Mobile Experiences" · "Desktop Products" · "Connected Applications" · "Real-Time Communication"
+<br><br><br>
+
+
+<!-- ============================== AI ================================ -->
+✦ AI
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:84CC16,50:A3E635,100:FACC15" width="180" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=1000&color=A3E635&center=true&vCenter=true&width=650&height=32&lines=INTELLIGENT+ASSISTANTS;AI--POWERED+PRODUCTS;AGENTIC+WORKFLOWS" />
+<br><br>
+"Intelligent Experiences" · "AI Automation" · "Context-Aware Systems" · "Human + AI Interaction"
+<br><br><br>
+
+
+<!-- ======================== PRODUCT SYSTEMS ========================= -->
+◆ PRODUCT SYSTEMS
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F59E0B,50:F97316,100:EF4444" width="180" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=1000&color=FB923C&center=true&vCenter=true&width=650&height=32&lines=END--TO--END+DIGITAL+PRODUCTS;WORKFLOW--DRIVEN+PLATFORMS;PRODUCTION--READY+SYSTEMS" />
+<br><br>
+"Product Engineering" · "Workflow Automation" · "System Integration" · "Scalable User Experiences"
+<br><br><br>
+
+
+<!-- ======================== EXPERIENCE DESIGN ====================== -->
+◉ EXPERIENCE DESIGN
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:EC4899,50:F472B6,100:A78BFA" width="180" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=650&height=32&lines=DESIGN+WITH+INTENT;ENGINEER+WITH+PURPOSE;BUILD+EXPERIENCES+THAT+FEEL+SIMPLE" />
+<br><br>
+"UI + Engineering" · "Usability" · "Interaction Design" · "Performance + Experience"
+<br><br><br>
+
+
+<!-- ============================== CORE ============================= -->
+✧ CORE APPROACH
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:67E8F9,35:22D3EE,70:A78BFA,100:F472B6" width="220" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=720&height=32&lines=IDEA+%E2%86%92+DESIGN+%E2%86%92+ARCHITECTURE+%E2%86%92+ENGINEERING+%E2%86%92+PRODUCTION;PROBLEM+%E2%86%92+SYSTEM+%E2%86%92+EXPERIENCE+%E2%86%92+IMPACT" />
+<br><br>
+"Architecture" · "Performance" · "Maintainability" · "Automation" · "Scalability"
 </div>
 <br><br>
 
