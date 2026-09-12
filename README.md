@@ -118,7 +118,6 @@
 <!-- ========================= FRONTEND ========================= -->
 
 <div align="center">
-
 ⚡ FRONTEND<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,50:3B82F6,100:6366F1" width="30%" />
 <br><br>
@@ -126,9 +125,9 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,redux,vite&perline=10&theme=dark" />
 <br>
 <img src="https://skillicons.dev/icons?i=zustand&perline=1&theme=dark" />
-<br><br>
-"Modern Interfaces" · "State Management" · "Data Fetching" · "Responsive Design" · "Animations"
 <br>
+"Modern Interfaces" · "State Management" · "Data Fetching" · "Responsive Design" · "Animations"
+<br><br>
 <img src="https://img.shields.io/badge/React%20Query%20%2F%20TanStack%20Query-0B1220?style=flat-square&logo=reactquery&logoColor=FF4154" />
 <img src="https://img.shields.io/badge/Framer%20Motion-0B1220?style=flat-square&logo=framer&logoColor=0055FF" />
 <img src="https://img.shields.io/badge/Bootstrap-0B1220?style=flat-square&logo=bootstrap&logoColor=7952B3" />
@@ -139,22 +138,13 @@
 
 <!-- =========================== BACKEND ======================== -->
 
-◈ BACKEND
-
-<br>
-
+◈ BACKEND <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366F1,50:8B5CF6,100:A78BFA" width="30%" />
-
 <br><br>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun,fastify&perline=5&theme=dark" />
-
-<br><br>
-
+<br>
 "REST APIs" · "Real-Time Systems" · "API Architecture" · "Authentication" · "Service Engineering"
-
 <br><br>
-
 <img src="https://img.shields.io/badge/Elysia-0B1220?style=flat-square&logoColor=67E8F9" />
 <img src="https://img.shields.io/badge/REST%20API-0B1220?style=flat-square&logoColor=67E8F9" />
 <img src="https://img.shields.io/badge/GraphQL-0B1220?style=flat-square&logo=graphql&logoColor=E10098" />
@@ -163,7 +153,6 @@
 <img src="https://img.shields.io/badge/JWT-0B1220?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/OAuth-0B1220?style=flat-square&logo=oauth&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-0B1220?style=flat-square&logo=swagger&logoColor=85EA2D" />
-
 <br><br><br>
 
 
