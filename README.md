@@ -375,7 +375,7 @@ AETHRA
 <img src="https://img.shields.io/badge/ZOOM%20VIDEO%20SDK-111827?style=flat-square&logo=zoom&logoColor=2D8CFF" />
 <br><br>
 Built responsive web experiences, desktop integrations and mobile applications.
-<br>
+<br><br>
 <!-- <span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
 "Next.js / Elysia" · "Zoom Video SDK" · "Tauri" · "Flutter"
 </span> -->
@@ -386,7 +386,7 @@ Built responsive web experiences, desktop integrations and mobile applications.
 </details>
 <br>
 <!-- ZYRONE -->
-<details open>
+<details open align="center">
 <summary><b>02</b>   <b>ZYRONE ENERGY</b>   —   Full Stack Developer</summary>
 <br>
 <div align="center">
@@ -400,7 +400,7 @@ Built responsive web experiences, desktop integrations and mobile applications.
 <img src="https://img.shields.io/badge/FIREBASE-111827?style=flat-square&logo=firebase&logoColor=FFCA28" />
 <br><br>
 Engineered real-time operational systems that replaced manual workflows.
-<br>
+<br><br>
 <!-- <span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
 "6 Real-Time Modules" · "NestJS APIs" · "Firebase Cloud Messaging"
 </span>
@@ -413,7 +413,7 @@ Engineered real-time operational systems that replaced manual workflows.
 
 <!-- TECH KSHATRIYAS -->
 
-<details open>
+<details open align="center">
 <summary><b>03</b>   <b>TECH KSHATRIYAS</b>   —   Frontend Developer</summary>
 <br>
 <div align="center">
@@ -426,7 +426,7 @@ Engineered real-time operational systems that replaced manual workflows.
 <img src="https://img.shields.io/badge/NODE.JS-111827?style=flat-square&logo=nodedotjs&logoColor=68A063" />
 <br><br>
 Built high-performance web experiences and custom workflow applications.
-<br>
+<br><br>
 <!-- <span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
 "React" · "Node.js"
 </span>
