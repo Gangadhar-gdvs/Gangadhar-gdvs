@@ -1,111 +1,64 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00C2FF&height=190&section=header&text=Gangadhara%20Gooti&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20%7C%20Mobile%20%7C%20JavaScript&descAlignY=58&descSize=18&descColor=8B949E" width="100%" /><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Digital+Products;Full+Stack+Web+%26+Mobile+Development;Clean+Architecture+%7C+Performance+%7C+APIs;Turning+Complex+Problems+into+Simple+Solutions" alt="Typing Animation" /><br><br>
 
-<!-- Advanced Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=200&section=header&text=Gangadhara%20Gooti&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20%7C%20Mobile%20%7C%20JavaScript%20Specialist&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
-
-<!-- Animated Typing Subtitle -->
-<a href="https://github.com/Gangadhar-gdvs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Writing+Robust+Code+From+Scratch;Mastering+Complex+Architectures;Full+Stack+Web+%26+Mobile+Development;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
+<a href="mailto:gangadhargdvs0@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
+&nbsp;
+<a href="https://github.com/Gangadhar-gdvs">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a></div>---
 
-<br/>
+👨‍💻 About
 
-<!-- Sleek Contact Badges -->
-<a href="mailto:gangadhargdvs0@gmail.com"><img src="https://img.shields.io/badge/Email-gangadhargdvs0%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" /></a>
-<a href="https://github.com/Gangadhar-gdvs"><img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub" /></a>
+«Full Stack Developer focused on building scalable web, mobile, and desktop applications.»
 
-</div>
+I enjoy understanding systems deeply, designing clean architectures, and turning complex requirements into maintainable, production-ready software.
 
-<br>
+Currently: Junior Developer @ Vectorsoft LLC
+Education: B.Tech — Computer Science & Engineering, 2025
+Exploring: DSA with JavaScript · AI/ML · GenAI
 
-<h2 align="center">👨‍💻 About Me</h2>
+---
 
-<div align="center">
-  <p>
-    I am a Full Stack Developer building scalable, responsive web and mobile applications[span_0](start_span)[span_0](end_span). I take a highly deliberate approach to engineering—I prefer writing code manually from scratch to deeply understand complex architectures rather than relying on automated generation. I may take my time to analyze a problem, but I consistently deliver robust, easily maintainable solutions.
-  </p>
-</div>
+⚡ Tech Stack
 
-<br>
+<div align="center">Frontend & Mobile
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering (Class of 2025)[span_1](start_span)[span_1](end_span).
-- 💼 **Current Role:** Junior Developer at Vectorsoft LLC[span_2](start_span)[span_2](end_span).
-- 🚀 **Ventures:** Co-founder of a 3-member business initiative focused on tech services, products, and education networks.
-- 🌱 **Currently Learning:** Mastering **DSA using JavaScript**, while actively exploring **AI/ML** and **GenAI**.
-- 💡 **Philosophy:** Performance optimization, secure API design, and clean, deployment-ready code[span_3](start_span)[span_3](end_span).
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,flutter" />Backend & Data
 
-<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase" />Tools & Platform
 
-<h2 align="center">⚙️ Tech Stack</h2>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,tauri" /></div>---
 
-<p align="center">
-  <b>Frontend & Mobile</b><br>
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwind-css&logoColor=06B6D4" />
-</p>
+💼 Experience
 
-<p align="center">
-  <b>Backend & Database</b><br>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=E0234E" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28" />
-</p>
+<details open>
+<summary><b>Vectorsoft LLC · Junior Developer</b></summary><br>- Built a responsive Next.js / Elysia company website — 99% SEO
+- Integrated Zoom Video SDK into a Tauri desktop application
+- Developing the HomeCare Flutter app
 
-<p align="center">
-  <b>Tools & Architecture</b><br>
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=24C8DB" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" />
-</p>
+</details><details>
+<summary><b>Zyrone Energy · Full Stack Developer</b></summary><br>- Engineered 6 real-time operational modules, replacing manual workflows
+- Designed RESTful NestJS APIs
+- Integrated Firebase Cloud Messaging
 
-<br>
+</details><details>
+<summary><b>Tech Kshatriyas · Frontend Developer</b></summary><br>- Built a high-performance Next.js 14 website — 92/100 PageSpeed
+- Developed custom React / Node.js workflow applications
 
-<h2 align="center">💼 Experience & Projects</h2>
+</details>---
 
-*Click to expand each section for details.*
+🚀 Featured Projects
 
-<details>
-  <summary><b>🏢 Professional Experience</b></summary>
-  <br>
-  <ul>
-    <li><b>Junior Developer @ Vectorsoft LLC</b>: Built responsive Next.js/Elysia company website (99% SEO), integrated Zoom Video SDK into a Tauri app, and currently developing the HomeCare Flutter app[span_4](start_span)[span_4](end_span).</li>
-    <li><b>Full Stack Developer @ Zyrone Energy</b>: Engineered 6 real-time operational modules replacing manual workflows, designed RESTful NestJS APIs, and integrated Firebase Cloud Messaging[span_5](start_span)[span_5](end_span).</li>
-    <li><b>Frontend Developer @ Tech Kshatriyas</b>: Delivered a high-performance Next.js 14 website (92/100 PageSpeed) and built custom React/Node workflow apps for an Irish client team[span_6](start_span)[span_6](end_span).</li>
-  </ul>
-</details>
+<div align="center">Project| What I Built
+🧠 Aethra| AI desktop companion with 3D avatar animation, procedural gestures & Gemini API
+🛒 G-Mart| Full-stack e-commerce platform with 5 modules, RBAC & JWT authentication
+🚕 SuperCabs| Cross-platform rental app with OTP onboarding, document workflows & push notifications
 
-<details>
-  <summary><b>🚀 Featured Builds & Architecture</b></summary>
-  <br>
-  <ul>
-    <li><b>Aethra:</b> AI desktop companion featuring real-time 3D avatar animation, procedural gesture detection, and Gemini API integration (built with Tauri & React)[span_7](start_span)[span_7](end_span).</li>
-    <li><b>G-Mart:</b> Scalable full-stack e-commerce platform with 5 modules, role-based access control, and JWT authentication (React, Node, Express, MongoDB)[span_8](start_span)[span_8](end_span).</li>
-    <li><b>SuperCabs:</b> Cross-platform mobile rental app featuring 3-step OTP onboarding, document workflows, and real-time push notifications (Flutter, Firebase)[span_9](start_span)[span_9](end_span).</li>
-  </ul>
-</details>
+</div><br><div align="center">"React" "Next.js" "Flutter" "Node.js" "NestJS" "MongoDB" "Firebase" "Tauri" "Gemini API"
 
-<br>
+</div>---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gangadhar-gdvs&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gangadhar-gdvs&theme=vision-friendly-dark&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakNum=ffffff" alt="GitHub Streak" />
-</p>
-
-<br>
-
-<div align="center">
-  <!-- Animated Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=100&section=footer" width="100%" alt="Footer Wave" />
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gangadhar-gdvs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9&ring_color=00C2FF" height="170" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gangadhar-gdvs&hide_border=true&background=0D1117&ring=00C2FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=00C2FF&sideLabels=8B949E&dates=8B949E" height="170" /></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:161B22,100:0D1117&height=100&section=footer" width="100%" /></div>
