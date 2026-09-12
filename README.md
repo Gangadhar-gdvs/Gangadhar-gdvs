@@ -220,10 +220,10 @@
 
 <br>
 
-<!-- VECTORsoft -->
+<!-- VECTORSOFT -->
 
 <details open>
-<summary><b>01</b>   <b>VECTORsoft LLC</b>   —   Junior Developer</summary>
+<summary><b>01</b>   <b>VECTORSOFT LLC</b>   —   Junior Developer</summary>
 
 <br>
 
@@ -231,7 +231,7 @@
 
 <img src="https://img.shields.io/badge/JUNIOR%20DEVELOPER-06B6D4?style=for-the-badge&labelColor=0B1220" />
 
-<br><br>
+<br>
 
 <!-- Unique Experience Stack -->
 
@@ -241,16 +241,16 @@
 <img src="https://img.shields.io/badge/FLUTTER-111827?style=flat-square&logo=flutter&logoColor=54C5F8" />
 <img src="https://img.shields.io/badge/ZOOM%20VIDEO%20SDK-111827?style=flat-square&logo=zoom&logoColor=2D8CFF" />
 
-<br><br>
+<br>
 
 Built responsive web experiences, desktop integrations and mobile applications.
 
 <br>
-<span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
+<!-- <span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
 "Next.js / Elysia" · "Zoom Video SDK" · "Tauri" · "Flutter"
-</span>
+</span> -->
 
-<br><br>
+<!-- <br><br> -->
 
 <img src="https://img.shields.io/badge/99%25-SEO-06B6D4?style=for-the-badge" />
 
@@ -271,7 +271,7 @@ Built responsive web experiences, desktop integrations and mobile applications.
 
 <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-A78BFA?style=for-the-badge&labelColor=0B1220" />
 
-<br><br>
+<br>
 
 <!-- Unique Experience Stack -->
 
@@ -279,16 +279,15 @@ Built responsive web experiences, desktop integrations and mobile applications.
 <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logoColor=67E8F9" />
 <img src="https://img.shields.io/badge/FIREBASE-111827?style=flat-square&logo=firebase&logoColor=FFCA28" />
 
-<br><br>
+<br>
 
 Engineered real-time operational systems that replaced manual workflows.
 
 <br>
-<span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
+<!-- <span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
 "6 Real-Time Modules" · "NestJS APIs" · "Firebase Cloud Messaging"
 </span>
-
-<br><br>
+<br><br> -->
 
 <img src="https://img.shields.io/badge/6-REAL--TIME%20MODULES-A78BFA?style=for-the-badge" />
 
@@ -309,7 +308,7 @@ Engineered real-time operational systems that replaced manual workflows.
 
 <img src="https://img.shields.io/badge/FRONTEND%20DEVELOPER-F472B6?style=for-the-badge&labelColor=0B1220" />
 
-<br><br>
+<br>
 
 <!-- Unique Experience Stack -->
 <!-- Next.js removed here because it is already shown above -->
@@ -317,16 +316,15 @@ Engineered real-time operational systems that replaced manual workflows.
 <img src="https://img.shields.io/badge/REACT-111827?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/NODE.JS-111827?style=flat-square&logo=nodedotjs&logoColor=68A063" />
 
-<br><br>
+<br>
 
 Built high-performance web experiences and custom workflow applications.
 
 <br>
-<span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
+<!-- <span style="font-family:JetBrains Mono,monospace;color:#94A3B8;">
 "React" · "Node.js"
 </span>
-
-<br><br>
+<br><br> -->
 
 <img src="https://img.shields.io/badge/92%2F100-PAGESPEED-F472B6?style=for-the-badge" />
 
