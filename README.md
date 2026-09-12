@@ -123,8 +123,7 @@
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,redux,vite&perline=10&theme=dark" />
-<br>
-<!-- <img src="https://skillicons.dev/icons?i=zustand&perline=1&theme=dark" /> -->
+<img src="https://img.shields.io/badge/Zustand-111827?style=flat-square&logo=zustand&logoColor=FFFFFF" />
 <br>
 "Modern Interfaces" · "State Management" · "Data Fetching" · "Responsive Design" · "Animations"
 <br><br>
@@ -141,7 +140,8 @@
 ◈ BACKEND <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366F1,50:8B5CF6,100:A78BFA" width="30%" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun,fastify&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun&perline=5&theme=dark" />
+<img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logo=fastify&logoColor=FFFFFF" />
 <br><br>
 "REST APIs" · "Real-Time Systems" · "API Architecture" · "Authentication" · "Service Engineering"
 <br><br>
@@ -234,7 +234,8 @@
 ◆ 3D & CREATIVE <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:F59E0B,50:F97316,100:EF4444" width="30%" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=threejs,webgl&perline=2&theme=dark" />
+<img src="https://skillicons.dev/icons?i=threejs&perline=2&theme=dark" />
+<img src="https://img.shields.io/badge/WebGL-111827?style=flat-square&logo=webgl&logoColor=990000" />
 <br><br>
 "3D Interfaces" · "Interactive Graphics" · "Web Rendering"
 <br><br>
@@ -247,7 +248,8 @@
 ✦ TOOLS <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:64748B,50:94A3B8,100:E2E8F0" width="30%" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,npm,pnpm,bun,figma,jira,docker,linux&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,npm,pnpm,bun,figma,docker,linux&perline=6&theme=dark" />
+<img src="https://img.shields.io/badge/Jira-111827?style=flat-square&logo=jira&logoColor=2684FF" />
 <br><br>
 "Development Workflow" · "Version Control" · "Design" · "Project Management"
 <br><br>
