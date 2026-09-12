@@ -144,7 +144,10 @@
 
 <img src="https://img.shields.io/badge/AI%20ENGINEERING-GEMINI%20%7C%20GENAI-0B1220?style=for-the-badge&logo=google&logoColor=67E8F9" /></div><br>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:F472B6,50:A78BFA,100:22D3EE" width="70%" /></div><br>
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:F472B6,50:A78BFA,100:22D3EE" width="70%" />
+</div> -->
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
