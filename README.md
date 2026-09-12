@@ -235,7 +235,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:F59E0B,50:F97316,100:EF4444" width="30%" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=threejs&perline=2&theme=dark" />
-<img src="https://cdn.simpleicons.org/webgl/EF4444" width="28" height="44" style="vertical-align:middle;" />
+<img src="https://cdn.simpleicons.org/webgl/EF4444" width="46" height="46" style="vertical-align:middle;" />
 <br><br>
 "3D Interfaces" · "Interactive Graphics" · "Web Rendering"
 <br><br>
