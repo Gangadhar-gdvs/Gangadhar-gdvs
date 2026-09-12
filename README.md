@@ -297,22 +297,26 @@
 
 <!-- ───────────────────── AETHRA ───────────────────── -->
 
-<div align="center"><img src="https://img.shields.io/badge/01-0B1220?style=for-the-badge&labelColor=0B1220&color=06B6D4" /><br><br>
-
-🧠 AETHRA
-
-<br><br> <img src="https://img.shields.io/badge/AI%20DESKTOP%20COMPANION-0B1220?style=for-the-badge&logo=google&logoColor=67E8F9" /><br><br>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/01-0B1220?style=for-the-badge&labelColor=0B1220&color=06B6D4" />
+  <br><br>
+AETHRA
+<br><br>
+  <img src="https://img.shields.io/badge/AI%20DESKTOP%20COMPANION-0B1220?style=for-the-badge&logo=google&logoColor=67E8F9" />
+  <br><br>
 <img src="https://img.shields.io/badge/TAURI-172554?style=for-the-badge&logo=tauri&logoColor=24C8DB" />
 <img src="https://img.shields.io/badge/REACT-172554?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/GEMINI-312E81?style=for-the-badge&logo=google&logoColor=67E8F9" />
-<img src="https://img.shields.io/badge/3D%20ANIMATION-4C1D95?style=for-the-badge&logoColor=F472B6" /><br><br>
-
+<img src="https://img.shields.io/badge/3D%20ANIMATION-4C1D95?style=for-the-badge&logoColor=F472B6" />
+  <br><br>
 «Real-time avatar interaction with procedural gesture detection and AI integration.»
-
-<br><a href="https://github.com/Gangadhar-gdvs/Aethra"><img src="https://img.shields.io/badge/VIEW%20AETHRA-67E8F9?style=for-the-badge&logo=github&logoColor=0B1220" /></a></div>
-
-<br><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:22D3EE,50:A78BFA,100:F472B6" width="60%" /></div><br>
+<br>
+  <a href="https://github.com/Gangadhar-gdvs/Aethra">
+    <img src="https://img.shields.io/badge/VIEW%20AETHRA-67E8F9?style=for-the-badge&logo=github&logoColor=0B1220" />
+</a></div>
+<br><div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:22D3EE,50:A78BFA,100:F472B6" width="60%" />
+</div><br>
 
 <!-- ───────────────────── G-MART ───────────────────── -->
 
